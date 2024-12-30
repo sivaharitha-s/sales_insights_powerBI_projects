@@ -10,7 +10,7 @@ QUESTIONS
 
 2.How have sales changed over time (year-over-year)?
 
-3.What is the distribution of sales across different regions?
+3.Which product categories are driving the most sales?
 
 4.Which marketplace contributes the most to sales?
 
@@ -22,9 +22,6 @@ QUESTIONS
 
 8.Are there any seasonal trends in sales?
 
-9.What is the average order value?
-
-10.What is the customer retention rate?
 
 
 PROCESS
