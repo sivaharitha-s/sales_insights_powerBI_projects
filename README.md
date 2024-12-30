@@ -47,7 +47,7 @@ Relationships between tables are defined in the Data Model to enable efficient d
 
 DASHBOARD
 
-![image_alt]("C:\Users\HARITHA S\Pictures\Screenshots\Screenshot 2024-12-30 210246.png")
+![image_alt](https://github.com/sivaharitha-s/sales_insights_powerBI_projects/blob/f7119faf7ed253d23dbb1342a916461b36dc74ab/Screenshot%202024-12-30%20210757.png)
 
 
 PROJECT INSIGHTS
